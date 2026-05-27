@@ -1,4 +1,4 @@
-<h1 align="center">🎬 Netflix Data Analytics Project</h1>
+<h1 align="center">Netflix Data Analytics Project</h1>
 
 <p align="center">
 End-to-End Data Analytics Project using MS Excel, PostgreSQL, and SQL Analysis
@@ -8,42 +8,40 @@ End-to-End Data Analytics Project using MS Excel, PostgreSQL, and SQL Analysis
 This project analyzes Netflix movies and TV shows data to uncover insights related to content distribution, genres, ratings, countries, release trends, and platform growth.
 </p>
 
----
 
-# 📌 Project Overview
+# Project Overview
 
 This project demonstrates a complete data analytics workflow using Netflix dataset analysis.
 
 The project includes:
-- Cleaning and preprocessing Netflix dataset
-- Importing data into PostgreSQL
-- Performing SQL-based exploratory data analysis
-- Solving real-world business questions using SQL queries
+Cleaning and preprocessing Netflix dataset  
+Importing data into PostgreSQL  
+Performing SQL-based exploratory data analysis  
+Solving real-world business questions using SQL queries  
 
 The main objective is to extract meaningful insights from Netflix content data and demonstrate practical SQL and analytics skills.
 
----
 
-# 📂 Dataset Information
+# Dataset Information
 
 ### Dataset Name
 `netflix_titles.csv`
 
 ### Dataset Description
 The dataset contains information about Netflix movies and TV shows including:
-- Title
-- Director
-- Cast
-- Country
-- Release year
-- Rating
-- Genre
-- Duration
-- Date added
 
----
+Title  
+Director  
+Cast  
+Country  
+Release year  
+Rating  
+Genre  
+Duration  
+Date added  
 
-# 🛠️ Tools & Technologies
+
+# Tools & Technologies
 
 <table align="center">
 <tr>
@@ -67,35 +65,34 @@ The dataset contains information about Netflix movies and TV shows including:
 </tr>
 </table>
 
----
 
-# ⚙️ Project Workflow
+# Project Workflow
 
-## 1️⃣ Data Cleaning in MS Excel
+## Data Cleaning in MS Excel
 
 Performed preprocessing tasks such as:
-- Removing duplicate records
-- Handling missing/null values
-- Correcting formatting inconsistencies
-- Standardizing text values
-- Cleaning date columns
-- Preparing dataset for SQL analysis
 
----
+Removing duplicate records  
+Handling missing/null values  
+Correcting formatting inconsistencies  
+Standardizing text values  
+Cleaning date columns  
+Preparing dataset for SQL analysis  
 
-## 2️⃣ SQL Analysis using PostgreSQL
+
+## SQL Analysis using PostgreSQL
 
 The cleaned dataset was imported into PostgreSQL for analytical querying.
 
 ### SQL Tasks Performed
-- Created Netflix data table
-- Imported CSV dataset
-- Executed analytical SQL queries
-- Generated insights from Netflix content data
 
----
+Created Netflix data table  
+Imported CSV dataset  
+Executed analytical SQL queries  
+Generated insights from Netflix content data  
 
-# 🧠 SQL Concepts Used
+
+# SQL Concepts Used
 
 <ul>
 <li>SELECT Statements</li>
@@ -110,68 +107,67 @@ The cleaned dataset was imported into PostgreSQL for analytical querying.
 <li>Filtering & Sorting</li>
 </ul>
 
----
 
-# 📊 Business Questions Solved
+# Business Questions Solved
 
-### Content Analysis
-- Total number of Movies vs TV Shows
-- Most common content ratings
-- Top countries producing Netflix content
-- Most frequent genres/categories
-- Year-wise content release trends
+## Content Analysis
 
-### Platform Insights
-- Growth of Netflix content over years
-- Distribution of content by rating
-- Longest movies/shows on Netflix
-- Recently added content analysis
-- Director and actor contribution analysis
+Total number of Movies vs TV Shows  
+Most common content ratings  
+Top countries producing Netflix content  
+Most frequent genres/categories  
+Year-wise content release trends  
 
----
+## Platform Insights
 
-# 📈 Key Insights
-
-✅ Movies dominate the Netflix platform compared to TV Shows  
-✅ Certain countries contribute the majority of Netflix content  
-✅ Drama and International genres are highly popular  
-✅ Significant content growth observed after 2015  
-✅ TV-MA is among the most common content ratings  
-
----
+Growth of Netflix content over years  
+Distribution of content by rating  
+Longest movies/shows on Netflix  
+Recently added content analysis  
+Director and actor contribution analysis  
 
 
-# 🚀 How to Run the Project
+# Key Insights
+
+Movies dominate the Netflix platform compared to TV Shows  
+Certain countries contribute the majority of Netflix content  
+Drama and International genres are highly popular  
+Significant content growth observed after 2015  
+TV-MA is among the most common content ratings  
+
+
+# How to Run the Project
 
 ## Step 1: Data Cleaning
-- Open `netflix_titles.csv` in MS Excel
-- Perform cleaning and preprocessing
+
+Open `netflix_titles.csv` in MS Excel  
+Perform cleaning and preprocessing  
 
 ## Step 2: PostgreSQL Setup
-- Create a PostgreSQL database
-- Import cleaned dataset into PostgreSQL
+
+Create a PostgreSQL database  
+Import cleaned dataset into PostgreSQL  
 
 ## Step 3: Run SQL Queries
-- Open `solutions.sql`
-- Execute queries in PostgreSQL
-- Analyze generated insights
 
----
+Open `solutions.sql`  
+Execute queries in PostgreSQL  
+Analyze generated insights  
 
-# 🎯 Project Outcome
+
+# Project Outcome
 
 This project demonstrates practical skills in:
-- Data Cleaning
-- SQL Querying
-- Exploratory Data Analysis
-- Business Insight Generation
-- Database Handling
+
+Data Cleaning  
+SQL Querying  
+Exploratory Data Analysis  
+Business Insight Generation  
+Database Handling  
 
 This project is suitable for:
-- Data Analyst Portfolio
-- SQL Practice Projects
-- Internship Applications
-- Resume Showcase Projects
 
----
-
+Data Analyst Portfolio  
+SQL Practice Projects  
+Internship Applications  
+Resume Showcase Projects  
