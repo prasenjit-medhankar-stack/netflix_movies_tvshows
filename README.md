@@ -165,9 +165,4 @@ Exploratory Data Analysis
 Business Insight Generation  
 Database Handling  
 
-This project is suitable for:
 
-Data Analyst Portfolio  
-SQL Practice Projects  
-Internship Applications  
-Resume Showcase Projects  
