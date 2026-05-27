@@ -1,7 +1,7 @@
 <h1 align="center">Netflix Data Analytics Project</h1>
 
 <p align="center">
-End-to-End Data Analytics Project using MS Excel, PostgreSQL, and SQL Analysis
+End-to-End Data Analytics Project using MS Excel, PostgreSQL
 </p>
 
 <p align="center">
@@ -59,10 +59,6 @@ Date added
 <td>Database management and SQL analysis</td>
 </tr>
 
-<tr>
-<td><b>SQL</b></td>
-<td>Data querying and business insights</td>
-</tr>
 </table>
 
 
